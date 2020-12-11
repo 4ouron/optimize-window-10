@@ -1,1 +1,2 @@
-# optimize-window-10
+# Optimize windows 10
+run as admin
